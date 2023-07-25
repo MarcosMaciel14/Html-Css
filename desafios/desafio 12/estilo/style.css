@@ -49,11 +49,9 @@ section.normal {
 }
 
 section.imagem {
-    background-color: rgba(0, 0, 0, 0.422);
+    background-color: rgba(0, 0, 0, 0.775);
     color: white;
 
-
-    
 }
 
 section.imagem > p {
